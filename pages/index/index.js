@@ -4,6 +4,7 @@ const app = getApp()
 
 Page({
   data: {
+    //被点击的首页导航的菜单栏
     currentIndexNav:0,
    //首页导航数据
    navList:[],
